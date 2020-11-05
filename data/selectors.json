@@ -3,5 +3,6 @@
   "name": "#name",
   "gender": ".ant-radio-button",
   "age": "#age",
-  "story": "#story"
+  "story": "#story",
+  "image": ".ant-row ant-form-item"
 }
