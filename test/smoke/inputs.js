@@ -46,4 +46,8 @@ describe('Inputs', function () { //define suite title by passing a string
 
 
     });
+
+    describe('Input Placeholders are correct', function () {
+
+    });
 })
