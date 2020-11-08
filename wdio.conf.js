@@ -19,6 +19,7 @@ exports.config = {
     specs: [
         './test/smoke/inputs.js',
         './test/smoke/labels.js',
+        './test/smoke/ML-7.js',
         './test/smoke/mainFunctionality.js'
 
     ],

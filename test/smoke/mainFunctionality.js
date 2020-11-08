@@ -40,5 +40,7 @@ describe('Checking the main functionality', function () {
             const btn = $(sel.tryAgain).isDisplayed();
             expect(btn).toEqual(true);
         });
+
+
     });
 });
