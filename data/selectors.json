@@ -6,6 +6,7 @@
   "story": ".ant-select-selector",
   "create": ".ant-btn",
   "image": ".ant-row ant-form-item",
+  "imageClickDragDrop": ".ant-upload",
   "storyClick": ".ant-select-show-arrow",
   "storyType": ".ant-select-item-option"
 }

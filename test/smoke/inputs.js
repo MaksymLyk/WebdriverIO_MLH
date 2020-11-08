@@ -39,6 +39,11 @@ describe('Inputs', function () { //define suite title by passing a string
             expect(story).toEqual(true);
         });
 
+        it('TC-019 image', function () {
+            const story = $(sel.imageClickDragDrop).isDisplayed();
+            expect(story).toEqual(true);
+        });
+
         it('TC-020 Create', function () {
             const image = $(sel.create).isDisplayed();
             expect(image).toEqual(true);
