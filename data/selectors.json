@@ -8,5 +8,6 @@
   "image": ".ant-row ant-form-item",
   "imageClickDragDrop": ".ant-upload",
   "storyClick": ".ant-select-show-arrow",
-  "storyType": ".ant-select-item-option"
+  "storyType": ".ant-select-item-option",
+  "tryAgain": ".btn-primary"
 }
