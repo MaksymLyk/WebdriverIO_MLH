@@ -4,5 +4,6 @@
   "labelAge": "3. How old is your hero?",
   "labelStory": "4. What type of story would you like to read?",
   "labelImage": "5. Upload an image (optional)",
-  "placehoderName": "Hero's name"
+  "placehoderName": "Hero's name",
+  "placehoderAge": "Hero's age"
 }

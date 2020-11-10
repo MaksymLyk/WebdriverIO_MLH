@@ -59,5 +59,10 @@ describe('Inputs', function () { //define suite title by passing a string
             expect(placeholder).toEqual(exp.placehoderName);
         });
 
+        it('TC-032 Age', function () {
+            const placeholder = $(sel.age).getAttribute('placeholder');
+            expect(placeholder).toEqual(exp.placehoderAge);
+        });
+
     });
 })
