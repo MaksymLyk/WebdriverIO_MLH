@@ -27,6 +27,7 @@ describe('Checking the main functionality', function () {
             expect(btn).toEqual(true);
         });
 
+
         it('TC-023  gender it is working ', function () {
             browser.url('');
             inputValues4andClick(data.name, data.gender.it, data.age,data.storyType);
