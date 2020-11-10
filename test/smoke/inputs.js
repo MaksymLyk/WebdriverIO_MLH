@@ -54,5 +54,10 @@ describe('Inputs', function () { //define suite title by passing a string
 
     describe('Input Placeholders are correct', function () {
 
+        it('TC-031 Name', function () {
+            const placeholder = $(sel.name).getAttribute('placeholder');
+            expect(placeholder).toEqual(exp.placehoderName);
+        });
+
     });
 })
